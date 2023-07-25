@@ -21,6 +21,7 @@
     "start": "craco start",
     "build": "craco build --mode production",
     "test": "craco test",
+    "lint": "craco lint",
     "eject": "react-scripts eject",
     "build:dev": "craco build --mode development",
     "build:test": "craco build --mode preview",
